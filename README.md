@@ -9,6 +9,7 @@ Here we have challenges of 3 comlexity levels:
     Hard: 25 points per challenge.
 
 Firstly, you have to fork the current repository. Then you have to create a subfolder in the repository and name it "name_surname" in such a way. You should put present submissions in that folder and name them "name_surname_difficulty_level_challenge number".
+
 Example: 
 1) Folder name : yulian_salo
 2) File name: yulian_salo_easy_5
