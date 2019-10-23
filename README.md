@@ -12,7 +12,7 @@ Firstly, you have to fork the current repository. Then you have to create a subf
 
 Example: 
 1) Folder name : yulian_salo
-2) File name: yulian_salo_easy_5
+2) File name: yulian_salo_easy_5.py
 3) Path: SoftServeChallenges/yulian_salo/
 
 
