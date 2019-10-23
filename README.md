@@ -8,7 +8,12 @@ Here we have challenges of 3 comlexity levels:
     Medium: 15 points per challenge.
     Hard: 25 points per challenge.
 
-Firstly, you have to fork the current repository.
+Firstly, you have to fork the current repository. Then you have to create a subfolder in the repository and name it "name_surname" in such a way. You should put present submissions in that folder and name them "name_surname_difficulty_level_challenge number".
+Example: 
+1) Folder name : yulian_salo
+2) File name: yulian_salo_easy_5
+3) Path: SoftServeChallenges/yulian_salo/
+
 
 For the competition you are free to choose from any programming languages you'd like to. Please note, that sumbissions will checked at Repl.it(https://repl.it/). So you are recommended to you use Repl.it yourself to be sure that your submission is valid.
 
